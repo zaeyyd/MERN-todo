@@ -1,5 +1,5 @@
 # MERN-todo
 
-Basic MERN Stack todo webapp. 
+Basic MERN Stack TODO WebApp. 
 
 Big Thanks to Traversy Media's on YouTube!
